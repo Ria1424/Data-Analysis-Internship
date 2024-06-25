@@ -1,4 +1,4 @@
-# Mentorness-Data-Analysis-Internship
+# Data Analysis Internship
 <h3>Internship objective:</h3>
 <p>
   During your internship with us, you will have the opportunity to: <br>
